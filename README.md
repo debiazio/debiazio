@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @debiazio
-- 👀 I’m interested in learn about Github
+- 👀 I’m interested to learn about Github
 - 🌱 I’m currently learning Python
 
 <!---
